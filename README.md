@@ -118,6 +118,8 @@ La solution ideal serait donc d'externaliser toute la partie concernant la valid
     }
 ```
 
+## Implementation en PHP dans un context POO
+
 ### Requirements
 - PHP >= 8.1
 - Symfony [OptionsResolver Component](https://symfony.com/doc/current/components/options_resolver.html)
